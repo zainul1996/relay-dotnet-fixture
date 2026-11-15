@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RelayDotnetFixture/RelayDotnetFixture.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RelayDotnetFixture.Tests/RelayDotnetFixture.Tests.csproj" />
+  </Folder>
+</Solution>
